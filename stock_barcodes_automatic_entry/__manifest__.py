@@ -8,10 +8,10 @@
         with the class 'barcode-automatic-entry' after a barcode scanned has
         been processed.
     """,
-    "version": "13.0.1.0.0",
+    "version": "13.0.1.0.1",
     "license": "AGPL-3",
-    "maintainers": ["ageficent"],
-    "author": "ForgeFlow S.L., " "Odoo Community Association (OCA)",
+    "maintainers": ["AdriaGForgeFlow"],
+    "author": "ForgeFlow S.L., Odoo Community Association (OCA)",
     "website": "https://github.com/OCA/stock-logistics-barcode",
     "depends": ["barcodes"],
     "data": ["views/assets.xml"],
