@@ -19,8 +19,10 @@ setuptools.setup(
         'odoo10-addon-barcodes_multiline',
         'odoo10-addon-barcodes_search',
         'odoo10-addon-product_packaging_barcode',
+        'odoo10-addon-stock_inventory_barcode',
         'odoo10-addon-stock_scanner',
         'odoo10-addon-stock_scanner_inventory',
+        'odoo10-addon-stock_scanner_location_info',
         'odoo10-addon-stock_scanner_receipt',
     ],
     classifiers=[
