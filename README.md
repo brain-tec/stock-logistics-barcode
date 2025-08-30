@@ -26,6 +26,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [product_multi_barcode](product_multi_barcode/) | 18.0.1.0.0 |  | Multiple barcodes on products
+[stock_picking_product_barcode_report](stock_picking_product_barcode_report/) | 18.0.1.0.0 | <a href='https://github.com/CarlosRoca13'><img src='https://github.com/CarlosRoca13.png' width='32' height='32' style='border-radius:50%;' alt='CarlosRoca13'/></a> | It provides a wizard to select how many barcodes print.
 
 [//]: # (end addons)
 
